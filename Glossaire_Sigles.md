@@ -12,12 +12,17 @@
 **BSH** - bonne santé habituelle  
 **BHBP** - bien hydraté(e) et bien perfusé(e)  
 
+## C
+**cesariènne** - (n.f.) cesariana
+
 ## E
 **EF** - état fébril  
+**électif(ve)** - (adj.) eletivo(a)
 
 ## L
 
-**lolette** - [n.f.] chupeta
+**lolette** - (n.f.) chupeta
 
 ## R
+**en R** - en réserve = em SOS  
 **RAD** - retour au domicille
