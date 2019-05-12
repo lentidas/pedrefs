@@ -8,7 +8,7 @@
 
 ## B
 
-**Buscopan** -- espasmolítico que pode ser útil nas cólicas  
+**Buscopan®** -- espasmolítico que pode ser útil nas dores menstruais ou cólicas  
 
 ```
 Buscopan darg 10 mg 1 eo
@@ -17,7 +17,7 @@ Buscopan darg 10 mg 1 eo
 
 ## I
 
-**Ibuprofène** -- anti-inflamatório não esteróide que pode ser usado no caso de febre ou dores
+**Ibuprofeno** -- anti-inflamatório não esteróide que pode ser usado no caso de febre ou dores
 
 ```
 Ibuprofène cpr 200 mg / 400 mg / 600 mg 1 eo  
@@ -29,14 +29,19 @@ Ibuprofène susp 20 mg/mL 1 eo
 
 ## P
 
-**Paracétamol** -- 
+**Paracetamol** -- antipirético e analgésico comum
 
-**Paracétamol** cpr 250 mg / 500 mg / 1000 mg 1 eo  
+```
+Paracétamol cpr 250 mg / 500 mg / 1000 mg 1 eo  
 XXX mg (1 cpr), en réserve selon douleur ou fièvre, maximum 3x/jour
 
-**Paracétamol** sirop 30 mg/mL 1 eo  
+Paracétamol sirop 30 mg/mL 1 eo  
 15 mg/kg/dose --> XXX mg (XX mL), en réserve selon douleur ou fièvre, maximum 3x/jour
+```
 
+**Perenterol®** -- probiótico útil em diarreias (também existe uma posologia para diarreias após antibioterapia [máximo 1 grama por dia])
 
-**Perenterol** sach 250 mg 1 eo  
+```
+Perenterol sach 250 mg 1 eo  
 2x/jour, le premier jour; puis 1x/jour jusqu'à la fin de l'emballage.
+```

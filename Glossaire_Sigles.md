@@ -6,23 +6,27 @@
 
 ---
 
-## A
-
 ## B
+**faire le bon d'un examen** = faire l'ordre d'un examen  
 **BSH** - bonne santé habituelle  
 **BHBP** - bien hydraté(e) et bien perfusé(e)  
 
 ## C
-**cesariènne** - (n.f.) cesariana
+**cesariènne** - (n.f.) cesariana  
+**faire un complément d'anamnése** - expressão a usar quando não sabemos qualquer coisa acerca da história
 
 ## E
 **EF** - état fébril  
-**électif(ve)** - (adj.) eletivo(a)
+**électif(ve)** - (adj.) eletivo(a)  
 
 ## L
 
-**lolette** - (n.f.) chupeta
+**lolette** - (n.f.) chupeta  
+
+## P
+
+**pejóration** - (n.f.) pioria (exemplo: "retourner en cas de péjoration")  
 
 ## R
 **en R** - en réserve = em SOS  
-**RAD** - retour au domicille
+**RAD** - retour au domicille  
