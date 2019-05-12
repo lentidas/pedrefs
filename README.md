@@ -6,4 +6,6 @@ Neste repositório tenho a documentação, glossário e referências que me pode
 
 ### Índice
 
-[Glossaire et Sigles](./Glossaire_Sigles.md)
+[Blocs de Texte](./Blocs_Texte.md)  
+[Glossaire et Sigles](./Glossaire_Sigles.md)  
+[Ordres et Ordonnances](./Ordres_Ordonnances.md)  
