@@ -19,12 +19,18 @@
 **EF** - état fébril  
 **électif(ve)** - (adj.) eletivo(a)  
 
+## I
+**IVRS** - infection des voies respiratoires supérieures  
+
 ## J
 **joue** - (n.f) bochecha  
 
 ## L
 
 **lolette** - (n.f.) chupeta  
+
+## M
+**marbrure** - (n.f.) marmoreamento  
 
 ## P
 
@@ -33,3 +39,6 @@
 ## R
 **en R** - en réserve = em SOS  
 **RAD** - retour au domicille  
+
+## V
+**visage** - (n.m.) cara  
