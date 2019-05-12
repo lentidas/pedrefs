@@ -1,8 +1,8 @@
 # Templates
 
-## Anamnése
+## *Anamnése*
 
-## Status normal
+## *Status normal*
 
 ```
 Gén : bon état général; enfant réactif; bien hydraté et bien perfusé
