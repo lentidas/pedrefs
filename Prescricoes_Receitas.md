@@ -42,6 +42,8 @@ Méfénacide supp 125 mg / 500 mg 1 eo
 
 ```
 Normolytoral sachets 1 eo
+Besoin libre pour une cible de XXXX mL/24h, pendant que l'enfant a des vomissements ou des diarrhées
+Réhydratation oral fractionnée
 1 sachet sur 200 mL d'eau 1x/jour pendant 5 jours
 ```
 
@@ -63,6 +65,6 @@ Tylenol supp 100 mg / 200 mg / 350 mg 1 eo
 **Perenterol®** -- probiótico útil em diarreias (também existe uma posologia para diarreias após antibioterapia [máximo 1 grama por dia])
 
 ```
-Perenterol sach 250 mg 1 eo  
+Perenterol sachets 250 mg 1 eo  
 2x/jour, le premier jour; puis 1x/jour jusqu'à la fin de l'emballage.
 ```
