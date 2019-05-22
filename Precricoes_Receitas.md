@@ -27,9 +27,27 @@ Ibuprofène susp 20 mg/mL 1 eo
 10 mg/kg/dose --> XXX mg (XX mL), en réserve selon douleur ou fièvre, maximum 3x/jour
 ```
 
+## M
+
+**Méfénacide®** -- ácido mefenâmico; é um anti-inflamatório não esteróide que pode ser usado em alternativa ao ibuprofeno, já que este último não existe em supositório.
+
+```
+Méfénacide supp 125 mg / 500 mg 1 eo
+1 suppositoire de XXX mg, en réserve selon douleur ou fièvre, maximum aux 6h
+```
+
+## N
+
+**Normolytoral®** -- solução electrolítica para rehidratação oral
+
+```
+Normolytoral sachets 1 eo
+1 sachet sur 200 mL d'eau 1x/jour pendant 5 jours
+```
+
 ## P
 
-**Paracetamol** -- antipirético e analgésico comum
+**Paracetamol** -- antipirético e analgésico comum (dose normal: 15 mg/kg/dose; dose em supositório: 20 mg/kg/dose)
 
 ```
 Paracétamol cpr 250 mg / 500 mg / 1000 mg 1 eo  
@@ -37,6 +55,9 @@ XXX mg (1 cpr), en réserve selon douleur ou fièvre, maximum 3x/jour
 
 Paracétamol sirop 30 mg/mL 1 eo  
 15 mg/kg/dose --> XXX mg (XX mL), en réserve selon douleur ou fièvre, maximum 3x/jour
+
+Tylenol supp 100 mg / 200 mg / 350 mg 1 eo
+1 suppositoire de XXX mg, en réserve selon douleur ou fièvre, maximum aux 6h
 ```
 
 **Perenterol®** -- probiótico útil em diarreias (também existe uma posologia para diarreias após antibioterapia [máximo 1 grama por dia])
