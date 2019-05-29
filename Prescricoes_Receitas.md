@@ -6,14 +6,43 @@
 
 ---
 
+## A
+
+**Aerius ®** -- [desloratadina] é um anti-histamínico não sedativo que podes usar no tratamento sintomático do prurido ou rinite alérgica
+
+```
+Aerius sol 0,5 mg/mL 1 eo
+XX mL de solution buvable 1x/jour pendant la durée des symptômes
+6-11 mois -- 2 mL 1x/jour
+1-5 ans -- 2,5 mL 1x/jour
+6-11 ans -- 5 mL 1x/jour
+>12 ans -- 10 mL (5 mg de desloratadine) 1x/jour
+
+Aerius cpr 5 mg 1 eo
+1 comprimé de 5 mg par dose, 1x/jour, pendant la durée des symptômes
+
+```
+
+
 ## B
 
-**Buscopan®** -- espasmolítico que pode ser útil nas dores menstruais ou cólicas  
+**Buscopan ®** -- espasmolítico que pode ser útil nas dores menstruais ou cólicas  
 
 ```
 Buscopan drag 10 mg 1 eo
 1 dragée de 10 mg par dose, en réserve selon crampes, maximum 3x/jour
 ```
+
+## C
+
+**Ciproxin HC ®** -- gotas auriculares compostas por ciprofloxacina e hidrocortisona para tratamento de otites do canal auditivo externo (*conduit auditif externe*); é um fármaco seguro mesmo que tenhas dúvidas de estar perante uma otite média aguda perfurada, já que a ciprofloxacina não apresenta ototoxicidade relevante.
+
+```
+Ciproxin HC gouttes 1 eo
+3 gouttes dans l'oreille attente, 2x/jour, pendant 7 jours
+
+```
+
 
 ## I
 
@@ -27,18 +56,33 @@ Algifor susp 20 mg/mL 1 eo
 10 mg/kg/dose --> soit XXX mg par dose, en réserve selon douleur ou fièvre, maximum 3x/jour
 ```
 
+**Itinerol B6 ®** -- anti-emético básico que pode ser usado em alternativa ao ondansetron; existe em cápsulas (> 12 anos) e supositórios (em supositório existem as versões *bébés* (< 6 anos), *enfants* (6-12 anos) e *adultes* (> 12 anos) )
+
+```
+Itinerol B6 bébés supp 1 eo
+1 suppositoire par dose, maximum 1x/jour, si vomissements plus que 3-4x/jour
+
+Itinerol B6 enfants supp 1 eo
+1 suppositoire par dose, maximum 1x/jour, si vomissements plus que 3-4x/jour
+
+Itinerol B6 caps 1 eo
+1 capsule par dose, maximum 1x/jour, si vomissements plus que 3-4x/jour
+```
+
+
 ## M
 
-**Méfénacide®** -- ácido mefenâmico; é um anti-inflamatório não esteróide que pode ser usado em alternativa ao ibuprofeno, já que este último não existe em supositório.
+**Méfénacide ®** -- ácido mefenâmico; é um anti-inflamatório não esteróide que pode ser usado em alternativa ao ibuprofeno, já que este último não existe em supositório.
 
 ```
 Méfénacide supp 125 mg / 500 mg 1 eo
 1 suppositoire de XXX mg par dose, en réserve selon douleur ou fièvre, maximum aux 6h
 ```
 
+
 ## N
 
-**Normolytoral®** -- solução electrolítica para rehidratação oral
+**Normolytoral ®** -- solução electrolítica para rehidratação oral
 
 ```
 Normolytoral sachets 1 eo
@@ -46,6 +90,7 @@ Besoin libre pour une cible de XXXX mL/24h, pendant que l'enfant a des vomisseme
 Réhydratation oral fractionnée
 1 sachet sur 200 mL d'eau 1x/jour pendant 5 jours
 ```
+
 
 ## P
 
@@ -70,4 +115,11 @@ Tylenol supp 100 mg / 200 mg / 350 mg 1 eo
 ```
 Perenterol sachets 1 eo  
 Le premier jour 2x/jour (1 sachet le matin et 1 sachet le soir); puis 1x/jour jusqu'à la fin de l'emballage.
+```
+
+**PoxClin ®** -- mousse para aplicar nas lesões da varicela que ajuda a aliviar o prurido
+
+```
+PoxClin mousse 1 eo  
+1 application 1x/jour sur les lésions cutanées après le douche quotidienne.
 ```
