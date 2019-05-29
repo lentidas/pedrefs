@@ -8,7 +8,7 @@
 
 ## A
 
-**Aerius ®** -- [desloratadina] é um anti-histamínico não sedativo que podes usar no tratamento sintomático do prurido ou rinite alérgica
+**Aerius ®** -- (**desloratadina**; francês - ***desloratadine***) é um anti-histamínico não sedativo que podes usar no tratamento sintomático do prurido ou rinite alérgica
 
 ```
 Aerius sol 0,5 mg/mL 1 eo
