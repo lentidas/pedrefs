@@ -7,5 +7,7 @@ Neste repositório tenho a documentação, glossário e referências que me pode
 ### Índice
 
 [Templates](./Templates.md)  
-[Glossário e Siglas](./Glossario_Siglas.md)  
 [Prescrições e Receitas](./Prescricoes_Receitas.md)  
+[Informações Práticas](./Infos_Praticas.md)  
+[Glossário e Siglas](./Glossario_Siglas.md)  
+[Links Úteis](./Links_Uteis.md)  
