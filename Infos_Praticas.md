@@ -2,8 +2,8 @@
 
 ## Índice
 
-[Contrôle du risque infectieux du nouveau-né]()  
-[Signes de méningisme]()  
+[Contrôle du risque infectieux du nouveau-né](#contrôle-du-risque-infectieux-du-nouveau-né)  
+[Signes de méningisme](#signes-de-méningisme)  
 
 ---
 
