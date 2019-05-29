@@ -2,11 +2,11 @@
 
 ## Índice
 
-[*Anamnése*]()  
-[*Status normal simple*]()  
-[*Status normal complet*]()  
-[*Status normal -- nourrisson*]()  
-[*Status normal -- traumatisme crânien*]()  
+[*Anamnése*](#anamnése)  
+[*Status normal simple*](#status-normal-simple)  
+[*Status normal complet*](#status-normal-complet)  
+[*Status normal -- nourrisson*](#status-normal----nourrisson)  
+[*Status normal -- traumatisme crânien*](#status-normal----traumatisme-crânien)  
 
 
 ---
