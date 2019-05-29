@@ -40,7 +40,6 @@ Buscopan drag 10 mg 1 eo
 ```
 Ciproxin HC gouttes 1 eo
 3 gouttes dans l'oreille attente, 2x/jour, pendant 7 jours
-
 ```
 
 
