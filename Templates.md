@@ -3,6 +3,7 @@
 ## Índice
 
 [*Anamnése*](#anamnése)  
+[*Anamnése -- maternité*](#anamnése-maternité)  
 [*Status normal simple*](#status-normal-simple)  
 [*Status normal complet*](#status-normal-complet)  
 [*Status normal -- nourrisson*](#status-normal----nourrisson)  
@@ -15,6 +16,7 @@
 ## *Anamnése*
 
 ```
+A COMPLETAR
 
 Bonne santé habituelle
 Vaccins à jour
@@ -23,10 +25,25 @@ Pas de prise des médicaments d'habitude
 ```
 
 
+## *Anamnése -- maternité*
+
+```
+VER O DOCUMENTO DA CAROLINE
+```
+
+
 ## *Status normal simple*
 
 ```
-
+Gén : bon état général; enfant réactif; bien hydraté(e) et bien perfusé(e).
+ORL : fond de gorge calme; tympans calmes.
+CV : normocarde; S1 et S2 présents, bien frappés et rythmiques; pas de souffle audible; TRC < 3 sec.
+Resp : eupnéique; murmure vésiculaire symétrique; pas des bruits respiratoires surajoutés; pas de syndrome de détresse respiratoire.
+Abdo : bruits péristaltiques sans particularités; abdomen souple et indolore; pas des organomégalies et pas des masses palpées.
+Uro-Gén : pénis, testiculles et scrotum calmes; vulva calme; anus calme.
+Neuro : enfant calme orienté et collaborant; pas de méningisme.
+Téguments : pas de rash; pas de marbrure; pas de pétéchies.
+Squelette : pas examiné.
 ```
 
 
@@ -41,7 +58,7 @@ Abdo : bruits péristaltiques normaux en fréquence et tonalité; abdomen souple
 Uro-Gén : COMPLETAR AQUI
 Neuro : enfant calme et collaborant; Glasgow 15/15; orienté dans l'espace, le temp et le personne; pupilles iso-iso, bonne fixation et porsuite oculaire; pas d'asymétrie faciale; sensibilité du visage et périphérique conservées; force niveau 5 aux 4 membres; reflexes ostéo-tendineux normovifs; bon équilibre; marche sans altérations; pas de dysmétrie; pas de méningisme.
 Téguments : pas de rash; pas de marbrure; pas de pétéchies.
-Squellete : pas des enfoncements osseauses
+Squelette : pas des déformations osseuses.
 ```
 
 
@@ -71,5 +88,5 @@ Abdo : bruits péristaltiques sans particularités; abdomen souple et indolore; 
 Uro-GÈn : pas examiné.
 Neuro : enfant calme et collaborant; Glasgow 15/15; orienté dans l'espace, le temp et le personne; pupilles iso-iso, bonne fixation et porsuite oculaire; pas d'asymétrie faciale; sensibilité du visage et périphérique conservées; force niveau 5 aux 4 membres; reflexes ostéo-tendineux normovifs; bon équilibre; marche sans altérations; pas de dysmétrie; pas de méningisme.
 Téguments : pas de rash; pas de marbrure; pas de pétéchies.
-Squellete : pas de hématome en monocle; pas de signe de Battle; pas d'enfoncement sur la face ou le crâne; sans déformations osseuses ou hématomes sur le reste du corps.
+Squelette : pas de hématome en monocle; pas de signe de Battle; pas d'enfoncement sur la face ou le crâne; sans déformations osseuses ou hématomes sur le reste du corps.
 ```
