@@ -22,6 +22,7 @@
 **EF** - état fébril  
 **EFSF** - état fébril sans foyer  
 **électif(ve)** - (adj.) eletivo(a)  
+**épeler** - (verbe) soletrar
 **être enceinte** - estar grávida  
 
 ## G
