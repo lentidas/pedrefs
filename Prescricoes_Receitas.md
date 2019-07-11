@@ -105,14 +105,17 @@ Réhydratation oral fractionnée
 - dose no recém-nascido (ex.: bossas sero-sanguíneas) -- **10 mg/kg/dose**
 - dose de carga em emergência (mesmo em intravenoso) -- **20 mg/kg/dose** (40 mg/kg/dose se rectal)
 - dose máxima em 24h:
-   - <3 meses -- 60 mg/kg/dia (80 mg/kg/dia se rectal)
-   - >3 meses -- 90 mg/kg/dia (100 mg/kg/dia se rectal)
+   - < 3 meses -- 60 mg/kg/dia (80 mg/kg/dia se rectal)
+   - \> 3 meses -- 90 mg/kg/dia (100 mg/kg/dia se rectal)
    - adultos -- 4 g
 - frequência máxima -- 6x/dia, ou seja, a cada 4h
 
 ```
 Paracétamol cpr 250 mg / 500 mg / 1000 mg 1 eo  
 1 comprimé de XXX mg par dose, en réserve selon douleur ou fièvre, maximum 4x/jour.
+
+Dafalgan Odis cpr orodispersibles 500 mg 1 eo  
+1 comprimé de 500 mg par dose, en réserve selon douleur ou fièvre, maximum 4x/jour.
 
 Dafalgan sirop 30 mg/mL 1 eo  
 15 mg/kg/dose soit XXX mg par dose soit XX mL, en réserve selon douleur ou fièvre, maximum 4x/jour.
@@ -124,11 +127,24 @@ Tylenol supp 100 mg / 200 mg / 350 mg 1 eo
 1 suppositoire de XXX mg par dose, en réserve selon douleur ou fièvre, maximum aux 6h.
 ```
 
+**Penincilina** -- antibiótico *standard* de primeira linha usado nas amigdalites bacterianas por *Streptococcus* beta-hemolíticos de grupo A; em caso de alergia às penincilinas do tipo urticária ou anafilaxia, utilizar a claritromicina.
+
+- dose se < 30 kg -- 1,2 milhões de unidades por dia divididas 3 tomas durante 10 dias
+- dose se ≥ 30 kg -- 2,4 milhões de unidades por dia divididas 3 tomas durante 10 dias
+
+```
+Ospen 400 sirop 400000 UI / 5 mL
+400000 UI/dose soit 5 mL 3x/jour pendant 10 jours
+
+Ospen 400 sirop 400000 UI / 5 mL
+800000 UI/dose soit 10 mL 3x/jour pendant 10 jours
+```
+
 **Perenterol ®** -- probiótico útil em diarreias (também existe uma posologia para diarreias após antibioterapia [máximo 1 grama por dia])
 
 ```
 Perenterol sachets 1 eo  
-Le premier jour 2x/jour (1 sachet le matin et 1 sachet le soir); puis 1x/jour jusqu'à la fin de l'emballage.
+Le premier jour 2x/jour (1 sachet le matin et 1 sachet le soir); puis 1x/jour jusqu'à 3 jours après la fin de traitement antibiotique.
 ```
 
 **PoxClin ®** -- mousse para aplicar nas lesões da varicela que ajuda a aliviar o prurido
@@ -137,7 +153,6 @@ Le premier jour 2x/jour (1 sachet le matin et 1 sachet le soir); puis 1x/jour ju
 PoxClin mousse 1 eo  
 1 application 1x/jour sur les lésions cutanées après le douche quotidienne.
 ```
-
 
 
 ## X
@@ -154,3 +169,8 @@ XX mL de solution buvable 1-2x/jour pendant la durée des symptômes.
 Xyzal cpr 5 mg 1 eo
 1 comprimé de 5 mg par dose, 1-2x/jour, pendant la durée des symptômes.
 ```
+
+
+## Z
+
+**Zinat ®** -- (**cefuroxime**)
