@@ -225,7 +225,7 @@ Appliquer sur la région atteinte 2-3x/jour pendant 10 jours.
 
 ## X
 
-**Xyzal ®** -- (**levocetirizina**; francês -- ***lévocétirizine***) anti-histamínico de nova geração não sedativo
+**Xyzal ®** -- (**levocetirizina**; francês -- ***lévocétirizine***) anti-histamínico não sedativo antagonista dos receptores H1 para uso no prurido ou rinite alérgica.
 
 ```
 Xyzal sol 5 mg/mL 1 eo
