@@ -17,7 +17,7 @@
 
 ```
 Bonne santé habituelle
-Grossesse harmonieuse, sérologies en ordre, Strep B négatif et vaccin contre la coqueluche pendant la grossesse. Accouchement par voie baisse à 40 0/7 SA sans complications. Bonne adaptation périnatal, Apgar XX. PN XXXX g (PXX), TN XX cm (PXX), PCN XX cm (PXX).
+Grossesse harmonieuse, sérologies en ordre, Strep B négatif et vaccin contre la coqueluche pendant la grossesse. Accouchement par voie baisse à 40 0/7 SA sans complications. Bonne adaptation périnatale, Apgar XX. PN XXXX g (PXX), TN XX cm (PXX), PCN XX cm (PXX).
 Vaccins à jour anamnestiquement
 Pas d'allergies connues
 Pas de médication habituelle
