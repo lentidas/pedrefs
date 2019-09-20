@@ -50,6 +50,9 @@
 **meurtrissure** - (n.f.) contusão  
 **muguet** - (n.m.) candidíase da cavidade bucal com placas brancas  
 
+## N
+**NPP** - non progression de présentation
+
 ## P
 **pejóration** - (n.f.) pioria (exemplo: "retourner en cas de péjoration")  
 **prurit** - (n.m.) prurido  
