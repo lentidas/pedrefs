@@ -46,7 +46,7 @@ Gén : bon état général; enfant réactif; bien hydraté(e) et bien perfusé(e
 ORL : fond de gorge calme; tympans calmes; pas d'adénopathies.
 CV : normocarde; S1 et S2 bien frappés et rythmiques; pas de souffle audible; TRC < 3 sec.
 Resp : eupnéique; murmure vésiculaire symétrique; pas de bruits respiratoires surajoutés; pas de SDR.
-Abdo : bruits péristaltiques sans particularités; abdomen souple et indolore; pas d'organomégalies et pas des masses palpées.
+Abdo : bruits péristaltiques sans particularités; abdomen souple et indolore; pas d'organomégalies et pas de masses palpées.
 Uro-Gén : pénis calme; testicules in situ calmes; scrotum calmes; vulve calme; anus calme.
 Neuro : enfant calme et collaborant; Glasgow 15/15; orienté dans l'espace, le temp et le personne; nerfs crâniens 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 sans particularités; pupilles iso-iso, bonne fixation et poursuite oculaire, fundoscopie pas realisée; pas d'asymétrie faciale; sensibilité du visage et périphérique conservées; force niveau 5 aux 4 membres; reflexes ostéo-tendineux normovifs; bon équilibre, marche sans altérations; pas de dysmétrie; Romberg - ; pas de raideur de nuque, Kernig et Brudzinski négatifs.
 Téguments : pas de rash; pas de marbrure; pas de pétéchies.
@@ -76,7 +76,7 @@ Gén : bon état général; enfant réactif; bien hydraté(e) et bien perfusé(e
 ORL : fond de gorge calme; tympans calmes, pas d'hémotympan; pas d'adénopathies.
 CV : normocarde; S1 et S2 bien frappés et rythmiques; pas de souffle audible; TRC < 3 sec.
 Resp : eupnéique; murmure vésiculaire symétrique; pas de bruits respiratoires surajoutés; pas de SDR.
-Abdo : bruits péristaltiques sans particularités; abdomen souple et indolore; pas d'organomégalies et pas des masses palpées.
+Abdo : bruits péristaltiques sans particularités; abdomen souple et indolore; pas d'organomégalies et pas de masses palpées.
 Uro-Gén : pas examiné.
 Neuro : enfant calme et collaborant; Glasgow 15/15; orienté dans l'espace, le temp et le personne; pupilles iso-iso, bonne fixation et poursuite oculaire; pas d'asymétrie faciale; sensibilité du visage et périphérique conservées; force niveau 5 aux 4 membres; reflexes ostéo-tendineux normovifs; bon équilibre; marche sans altérations; pas de dysmétrie; pas de méningisme.
 Téguments : pas de rash; pas de marbrure; pas de pétéchies.
