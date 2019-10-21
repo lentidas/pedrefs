@@ -6,7 +6,7 @@
 [*Status normal simple*](#status-normal-simple)  
 [*Status normal avec status neurologique complet*](#status-normal-avec-status-neurologique-complet)  
 [*Status normal -- nourrisson*](#status-normal----nourrisson)  
-[*Status normal -- traumatisme crânien*](#status-normal----traumatisme-crânien)
+[*Status normal -- traumatisme crânien*](#status-normal----traumatisme-crânien)  
 [*Anamnèse -- maternité*](#anamnèse-maternité)  
 
 
@@ -90,7 +90,7 @@ Squelette : pas de hématome en monocle; pas de signe de Battle; pas d'enfonceme
 Grossesse harmonieuse // marqué par XXX. 1G1P, sérologies en ordre, Strep B négatif.
 La mère n'a pas fumé, ni consommé d'alcool, de toxiques ou de
 médicaments. Il n'y a pas de tabac dans l'environnement de l'enfant.
-Pas d'antécédents familiaux des maladies génétiques. Pas d'antécédents familiaux de dysplasie congénitale de hanche ou autres malformations congénitales.
+Pas de consanguinité. Pas d'antécédents familiaux des maladies génétiques. Pas d'antécédents familiaux de dysplasie congénitale de hanche ou autres malformations congénitales.
 Mère vaccinée contre la coqueluche pendant la grossesse.
 ```
 
