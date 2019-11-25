@@ -5,7 +5,7 @@
 [*Antécédents*](#antécédents)  
 [*Status normal simple*](#status-normal-simple)  
 [*Status normal avec status neurologique complet*](#status-normal-avec-status-neurologique-complet)  
-[*Status normal du nouveau-né*](#status-normal-du-nouveau-né)  
+[*Status normal -- nouveau-né*](#status-normal----nouveau-né)  
 [*Status normal -- nourrisson*](#status-normal----nourrisson)  
 [*Status normal -- traumatisme crânien*](#status-normal----traumatisme-crânien)  
 [*Anamnèse -- maternité*](#anamnèse-maternité)  
@@ -57,7 +57,7 @@ Squelette : pas de déformations osseuses, pas d'hématomes et pas de tuméfacti
 ```
 
 
-## *Status normal du nouveau-né*
+## *Status normal -- nouveau-né*
 
 ```
 Gén: bon état général ; tonique et réactif/ve ; bien hydraté/e et bien perfusé/e.
