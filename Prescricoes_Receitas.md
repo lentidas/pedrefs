@@ -89,8 +89,7 @@ XX gouttes 3x/jour pendant la durée des symptômes.
 
 ```
 Fucidin pommade
-Appliquer sur la région atteinte 3x/jour pendant 7 jours. 
-
+Appliquer sur la région atteinte 3x/jour pendant 7 jours.
 ```
 
 
@@ -138,7 +137,7 @@ Méfénacide supp 125 mg / 500 mg 1 eo
 
 ```
 Normolytoral sachets 1 eo
-Besoin libre pour une cible de XXXX mL/24h, pendant que l'enfant a des vomissements ou des diarrhées (1 sachet sur 200 mL d'eau). Compenser les pertes - 50-100 mL par chaque vomissement et 100-200 mL par chaque diarrhée.
+Boisson libre pour une cible de XXXX mL/24h, pendant que l'enfant a des vomissements ou des diarrhées (1 sachet sur 200 mL d'eau). Compenser les pertes - 50-100 mL par chaque vomissement et 100-200 mL par chaque diarrhée.
 Réhydratation oral fractionnée
 ```
 
@@ -181,6 +180,9 @@ Dafalgan supp 80 mg / 150 mg / 300 mg / 600 mg 1 eo
 1 suppositoire de XXX mg par dose, en réserve selon douleur ou fièvre, maximum 4x/jour aux 6h.
 
 Tylenol supp 100 mg / 200 mg / 350 mg 1 eo
+1 suppositoire de XXX mg par dose, en réserve selon douleur ou fièvre, maximum 4x/jour aux 6h.
+
+Ben-U-Ron supp 75 mg / 125 mg / 250 mg / 500 mg / 1000 mg 1 eo
 1 suppositoire de XXX mg par dose, en réserve selon douleur ou fièvre, maximum 4x/jour aux 6h.
 ```
 
