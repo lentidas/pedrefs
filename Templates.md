@@ -76,7 +76,7 @@ Squelette: Ortolani et Barlow négatifs ; clavicules, rachis et sutures sans par
 ## *Status normal -- nourrisson*
 
 ```
-Gén : bon état général ; bébé réactif ; bien hydraté/ et bien perfusé/e.
+Gén : bon état général ; bébé réactif ; bien hydraté/e et bien perfusé/e.
 ORL : fond de gorge calme ; tympans calmes ; pas d'adénopathies.
 CV : normocarde ; S1 et S2 bien frappés et rythmiques ; pas de souffle audible ; TRC < 3 sec.
 Resp : eupnéique ; murmure vésiculaire symétrique ; pas de bruits respiratoires surajoutés ; pas de SDR.
@@ -115,8 +115,8 @@ Mère vaccinée contre la coqueluche pendant la grossesse.
 ## *Remarques -- césarienne élective sans particularités*
 
 ```
-Césarienne élective itérative sur anesthésie péridurale par XXX (utérus cicatriciel, présentation en siège, etc.).
-Nouveau-né(e) arrivé sur table déjà en criant et avec respiration spontanée. Séchage et stimulation sur table, coloration progressivement rosée, respiration efficace et bon tonus.
+Césarienne élective (itérative) sur anesthésie péridurale par XXX (utérus cicatriciel, présentation en siège, etc.).
+Nouveau-né/e arrivé sur table déjà en criant et avec respiration spontanée. Séchage et stimulation sur table, coloration progressivement rosée, respiration efficace et bon tonus.
 Contact peau à peau avec la mère pendant les premières minutes de vie.
 Apgar 9/10/10.
 ```
@@ -126,7 +126,7 @@ Apgar 9/10/10.
 
 ```
 Césarienne d'urgence sur anesthésie péridurale // générale par échec de provocation // échec de ventouse et non progression de présentation.
-Nouveau-né(e) arrivé(e) sur table sans respiration efficace, non réactif(ve), hypotonique, cyanosé(e) mais avec FC > 100/min. Stimulation vigoureuse et séchage avec début de cri à 45-50 sec. Pas d'autres mesures de réanimation nécessaires. À 3 min, cri et respire de manière efficace mais toujours un peu hyporéactif et hypotonique. SpO2 à 5 min de vie > 80%.
+Nouveau-né/e arrivé/e sur table sans respiration efficace, non réactif/ve, hypotonique, cyanosé/e mais avec FC > 100/min. Stimulation vigoureuse et séchage avec début de cri à 45-50 sec. Pas d'autres mesures de réanimation nécessaires. À 3 min, cri et respire de manière efficace mais toujours un peu hyporéactif et hypotonique. SpO2 à 5 min de vie > 80%.
 Par la suite, cri vigoureux, respiration efficace sans signes de détresse, bien coloré.
 Apgar 4/7/9/10
 ```
