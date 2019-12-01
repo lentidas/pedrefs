@@ -6,6 +6,9 @@
 
 ---
 
+## A
+**AVP** - accident de voie publique  
+
 ## B
 **faire le bon d'un examen** = faire l'ordre d'un examen  
 **BNFT** - bruits péristaltiques normaux en fréquence et tonalité  
