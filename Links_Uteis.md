@@ -5,3 +5,4 @@
 [SwissPedDose - Doses des médicaments en pédiatrie](https://db.swisspeddose.ch/fr/search/)  
 [Principes généraux pour les soins des plaies](https://www.hug-ge.ch/procedures-de-soins/principes-generaux-pour-les-soins-de-plaies)  
 [Tests et manoeuvres en traumatologie](https://www.irbms.com/examens-cliniques-tests-manoeuvres/)  
+[Ballard Score](https://www.ballardscore.com/)  
