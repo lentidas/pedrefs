@@ -22,3 +22,5 @@ Ergothérapie -- **8951**
 ### Numéros utiles
 
 Pédopsychiatrie de garde du Nord Vaudois -- **021 314 15 43**  
+Demande de consultation de dermatologie pédiatrique -- der-ped@chuv.ch (si urgent, contacter MA au 079 556 39 80 [8-18h])
+Avis spécialisés dermatologie pédiatrique -- 
