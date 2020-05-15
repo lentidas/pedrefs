@@ -18,7 +18,7 @@
 
 ## *Antécédents*
 
-```
+```plaintext
 
 Bonne santé habituelle
 Grossesse harmonieuse, sérologies en ordre, Strep B négatif et vaccin contre la coqueluche pendant la grossesse. Accouchement par voie baisse à 40 0/7 SA sans complications. Bonne adaptation périnatale, Apgar XX. PN XXXX g (PXX), TN XX cm (PXX), PCN XX cm (PXX).
@@ -31,7 +31,7 @@ Pas de médication habituelle
 
 ## *Status normal simple*
 
-```
+```plaintext
 
 Gén : bon état général ; enfant réactif ; bien hydraté/e et bien perfusé/e.
 ORL : fond de gorge calme ; tympans calmes ; pas d'adénopathies.
@@ -48,7 +48,7 @@ Squelette : pas de déformations osseuses, pas d'hématomes et pas de tuméfacti
 
 ## *Status normal avec status neurologique complet*
 
-```
+```plaintext
 
 Gén : bon état général ; enfant réactif ; bien hydraté/e et bien perfusé/e.
 ORL : fond de gorge calme ; tympans calmes ; pas d'adénopathies.
@@ -65,7 +65,7 @@ Squelette : pas de déformations osseuses, pas d'hématomes et pas de tuméfacti
 
 ## *Status normal -- nouveau-né*
 
-```
+```plaintext
 
 Gén : bon état général ; tonique et réactif/ve ; bien hydraté/e et bien perfusé/e.
 CV : normocarde ; S1 et S2 bien frappés ; pas de souffle audible; pouls fémoraux palpables et symétriques ; TRC < 3 sec.
@@ -83,7 +83,7 @@ Squelette : Ortolani et Barlow négatifs ; clavicules, rachis et sutures sans pa
 
 ## *Status normal -- nourrisson*
 
-```
+```plaintext
 
 Gén : bon état général ; bébé réactif ; bien hydraté/e et bien perfusé/e.
 ORL : fond de gorge calme ; tympans calmes ; pas d'adénopathies.
@@ -100,7 +100,7 @@ Squelette : pas examiné.
 
 ## *Status normal -- traumatisme crânien*
 
-```
+```plaintext
 
 Gén : bon état général ; enfant réactif ; bien hydraté/e et bien perfusé/e.
 ORL : fond de gorge calme; tympans calmes, pas d'hémotympan ; pas d'adénopathies.
@@ -117,7 +117,7 @@ Squelette : pas de hématome en monocle ; pas de signe de Battle ; pas d'enfonce
 
 ## *Anamnèse -- maternité*
 
-```
+```plaintext
 
 Grossesse harmonieuse // marqué par XXX. 1G1P, sérologies en ordre, Strep B négatif. Pas de tabac ni alcool ni toxiques ou médicaments. Pas de tabac dans l'environnement de l'enfant.
 Pas de consanguinité. Pas d'antécédents familiaux des maladies génétiques. Pas d'antécédents familiaux de dysplasie congénitale de hanche ou autres malformations congénitales.
@@ -128,7 +128,7 @@ Mère vaccinée contre la coqueluche pendant la grossesse.
 
 ## *Remarques -- césarienne élective sans particularités*
 
-```
+```plaintext
 
 Césarienne élective (itérative) sur anesthésie péridurale par XXX (utérus cicatriciel, présentation en siège, etc.).
 Nouveau-né/e arrivé sur table déjà en criant et avec respiration spontanée. Séchage et stimulation sur table, coloration progressivement rosée, respiration efficace et bon tonus.
@@ -140,7 +140,7 @@ Apgar 9/10/10.
 
 ## *Remarques -- césarienne d'urgence avec réanimation simple*
 
-```
+```plaintext
 
 Césarienne d'urgence sur anesthésie péridurale // générale par échec de provocation // échec de ventouse et non progression de présentation.
 Nouveau-né/e arrivé/e sur table sans respiration efficace, non réactif/ve, hypotonique, cyanosé/e mais avec FC > 100/min. Stimulation vigoureuse et séchage avec début de cri à 45-50 sec. Pas d'autres mesures de réanimation nécessaires. À 3 min, cri et respire de manière efficace mais toujours un peu hyporéactif et hypotonique. SpO2 à 5 min de vie > 80%.
