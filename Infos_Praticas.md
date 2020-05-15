@@ -31,16 +31,6 @@
 --- Quels sont les plus fréquents symptômes d'infection que les nouveau-nés présentent? --> voir le *Vade-mecum de Néonatologie*
 
 
-## Contrôle de natrémie d'Elona
-
-- Elona est une petite fille qui présente une diabète insipide central.
-- Nous contrôlons la **natrémie** et le **poids** (lundi, mercredi et vendredi). Il faut aussi demander **combien est-ce qu’elle a bu** les jours avant.
-- Calculer les apports pour ajuster la natrémie en utilisant la formule sur le document de l’HUG.
-- Faire une **consultation de suivi** et la **facturation** correspondant.
-- Appeler la mère pour lui dire les apports nécessaires.
-- Envoyer un e-mail à Dre. Perez et Dr. Klee (endocrinologue pédiatrique).
-
-
 ## IPASS
 
 Mnémonique pour la transmission d’informations relatives au patient avec transfert de responsabilité (remise de garde/service).
@@ -92,4 +82,3 @@ Tests to illustrate meningismus (such as Kernig and Brudzinski signs) were origi
 **Gouttelettes** – bronchiolites pour RSV, etc.  
 **Contact** – gastro-entérite  
 **Aérosol** – (varicelle, tuberculose)  
-
